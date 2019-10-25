@@ -16,7 +16,7 @@ tags:
 
 ### How open source design help others
 
-The [source](https://www.dropbox.com/sh/egmjlot3o8787sr/AABbIT7a1-3zWvF7HQ8R21_ta?dl=0) files are provided in SVG format, this was done by Pablo with the purpose of providing a creative point of reference for other designers.  Giving out the source files gives designers the ability to freely dissect an illustrations design structure.  This learning technique helps designers learn new methods by building on top of the work of others, which is how he learned and the reason why these beautiful illustrations are FREE.  
+The [source](https://www.dropbox.com/sh/egmjlot3o8787sr/AABbIT7a1-3zWvF7HQ8R21_ta?dl=0) files are provided in SVG format, this was done by Pablo with the purpose of providing a creative point of reference for other designers.  When you have access to source files it can make learning the structure of a project a lot easier.  This learning technique helps designers learn new tricks by building on top of the work of others. This is how Pablo and a lot of other designer including me have learned, and on of the main reason he's giving these illustrations back to the design community for FREE.
 
 ### How Pablo want to help the design community 
 
